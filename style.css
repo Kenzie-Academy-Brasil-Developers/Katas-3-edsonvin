@@ -1,0 +1,19 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.results{
+    border: 1px black solid ;
+    border-radius: 4px;
+    width: 80%;
+    margin-bottom: 5px;
+}
+ section{
+     margin-top: 3px;
+ }
+ button{
+     width: 58.25px;
+ }
