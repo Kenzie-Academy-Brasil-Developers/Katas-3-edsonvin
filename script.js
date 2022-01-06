@@ -192,7 +192,7 @@ function kata14(){
     for(let contador = 0; contador<sampleArray.length; contador++){
         output.push(sampleArray[contador]**2)
 }
-return showResults(output, "Kata 13") 
+return showResults(output, "Kata 14") 
 }
 const botaoKata14 = document.getElementById("Kata14")
 botaoKata14.addEventListener("click", kata14)
